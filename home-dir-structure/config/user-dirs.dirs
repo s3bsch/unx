@@ -1,0 +1,9 @@
+XDG_DOCUMENTS_DIR="$HOME/docs"
+XDG_DOWNLOAD_DIR="$HOME/down"
+# move all "unnecessary" dirs into misc
+XDG_DESKTOP_DIR="$HOME/misc/desktop"
+XDG_MUSIC_DIR="$HOME/misc/music"
+XDG_PICTURES_DIR="$HOME/misc/pics"
+XDG_PUBLICSHARE_DIR="$HOME/misc/public"
+XDG_TEMPLATES_DIR="$HOME/misc/templates"
+XDG_VIDEOS_DIR="$HOME/misc/vids"
