@@ -1,0 +1,16 @@
+[user]
+	name = changeme
+	email = changeme
+[alias]
+	a = add
+	cm = commit
+	d = diff
+	dc = diff --cached
+	st = status
+	s = status
+	l = log
+	lol = log --oneline -10
+[color]
+	ui = auto
+[push]
+	default = simple
