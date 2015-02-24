@@ -10,6 +10,7 @@
 	s = status
 	l = log
 	lol = log --oneline -10
+	graph = log --graph --oneline --all
 [color]
 	ui = auto
 [push]
