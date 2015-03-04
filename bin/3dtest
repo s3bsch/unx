@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#
+# Tests 3D support on Ubuntu. Usefull for virtual environments after kernel update.
+#
+
+/usr/lib/nux/unity_support_test -p 2> /dev/null | grep -E "rendered|3D"
