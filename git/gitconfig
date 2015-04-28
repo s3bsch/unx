@@ -3,6 +3,7 @@
 	email = changeme
 [alias]
 	a = add
+	br = branch
 	cm = commit
 	d = diff
 	dc = diff --cached
