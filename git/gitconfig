@@ -5,6 +5,7 @@
 	a = add
 	br = branch
 	cm = commit
+	co = checkout
 	d = diff
 	dc = diff --cached
 	st = status
