@@ -4,6 +4,8 @@
 [alias]
 	a = add
 	br = branch
+        bm = branch --merged     # list branches merged into HEAD
+        bn = branch --no-merged  # list branches not merged into HEAD
 	cm = commit
 	co = checkout
 	d = diff
